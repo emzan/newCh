@@ -59,9 +59,9 @@
         [hidden]="session.hide">
         <ion-item routerLink="/app/tabs/schedule/session/{{session.id}}">
           <ion-label>
-            <h3>{{session.name}}</h3>
+            <h3>{{session.description}}</h3>
             <p>
-              &lt;{{session.timeStart}} &gt; {{session.description}}
+              {{session.name}} &lt;{{session.timeStart}} &gt; 
             </p>
           </ion-label>
         </ion-item>
