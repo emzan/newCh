@@ -1,7 +1,7 @@
 {
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "25 dicembre 2020",
       "groups": [
         {
           "time": "A",
@@ -141,10 +141,11 @@
           "time": "E",
           "sessions": [
             {
-              "name": "Lunch",
-              "location": "Dining Hall",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
-              "timeStart": "12:00 pm",
+              "name": "Elefantessa",
+              "location": "Tuttifrutti",
+              "description": "Elefantessa",
+              "speakerNames": ["E"],
+              "timeStart": "tuttifrutti",
               "timeEnd": "1:00 pm",
               "tracks": ["Food"],
               "id": "12"
@@ -247,22 +248,13 @@
         {
           "time": "I",
           "sessions": [
+          
             {
-              "name": "Angular Directives in Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "3:00 pm",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Angular"],
-              "id": "20"
-            },
-            {
-              "name": "Mobile States",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
+              "name": "mercato",
+              "location": "Hotel",
+              "description": "Automobile", 
+              "speakerNames": ["I"],
+              "timeStart": "isolato",
               "timeEnd": "3:45 pm",
               "tracks": ["Navigation"],
               "id": "21"
@@ -336,17 +328,8 @@
               "tracks": ["Angular"],
               "id": "26"
             
-            },
-            {
-              "name": "Mobile States",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"],
-              "id": "27"
             }
+           
           ]
         },
         {
@@ -389,28 +372,18 @@
               "tracks": ["Angular"],
               "id": "30"
             
-            },
-            {
-              "name": "Mobile States",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"],
-              "id": "31"
-            }
+            } 
           ]
         },
         {
           "time": "O",
           "sessions": [
             {
-              "name": "Angular Directives in Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "3:00 pm",
+              "name": "occapito",
+              "location": "Gioco",
+              "description": "come", 
+              "speakerNames": ["O"],
+              "timeStart": "oranadiamo",
               "timeEnd": "3:30 pm",
               "tracks": ["Angular"],
               "id": "32"
@@ -593,11 +566,11 @@
           "time": "V",
           "sessions": [
             {
-              "name": "Angular Directives in Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "3:00 pm",
+              "name": "Angularum",
+              "location": "corridoio",
+              "description": "greto",  
+              "speakerNames": ["V"],
+              "timeStart": "cirisimao",
               "timeEnd": "3:30 pm",
               "tracks": ["Angular"],
               "id": "47"
@@ -744,11 +717,11 @@
   "speakers": [
     {
       "name": "A",
-      "profilePic": "assets/img/speakers/bear.jpg",
+      "profilePic": "/assets/img/speakers/bear.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
-      "title": "ài nǐ",
+      "title": "Noi siamo i capoccia",
       "definition": "love you",
       "example": "我愛你",
       "location": "Everywhere",
@@ -758,11 +731,11 @@
     },
     {
       "name": "B",
-      "profilePic": "assets/img/speakers/cheetah.jpg",
+      "profilePic": "/assets/img/speakers/cheetah.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
-      "title": "Software Engineer",
+      "title": "Bella questa!",
       "location": "Everywhere",
       "email": "charlie@example.com",
       "phone": "+1-541-754-3010",
@@ -770,11 +743,11 @@
     },
     {
       "name": "C",
-      "profilePic": "assets/img/speakers/duck.jpg",
+      "profilePic": "/assets/img/speakers/duck.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
-      "title": "Software Engineer",
+      "title": "Parole vitaminiche",
       "location": "Everywhere",
       "email": "donald@example.com",
       "phone": "+1-541-754-3010",
@@ -782,7 +755,7 @@
     },
     {
       "name": "D",
-      "profilePic": "assets/img/speakers/eagle.jpg",
+      "profilePic": "/assets/img/speakers/eagle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -794,7 +767,7 @@
     },
     {
       "name": "E",
-      "profilePic": "assets/img/speakers/elephant.jpg",
+      "profilePic": "/assets/img/speakers/elephant.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -806,7 +779,7 @@
     },
     {
       "name": "F",
-      "profilePic": "assets/img/speakers/giraffe.jpg",
+      "profilePic": "/assets/img/speakers/giraffe.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -818,7 +791,7 @@
     },
     {
       "name": "G",
-      "profilePic": "assets/img/speakers/iguana.jpg",
+      "profilePic": "/assets/img/speakers/iguana.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -830,7 +803,7 @@
     },
     {
       "name": "H",
-      "profilePic": "assets/img/speakers/kitten.jpg",
+      "profilePic": "/assets/img/speakers/kitten.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -842,7 +815,7 @@
     },
     {
       "name": "I",
-      "profilePic": "assets/img/speakers/lion.jpg",
+      "profilePic": "/assets/img/speakers/lion.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -854,7 +827,7 @@
     },
     {
       "name": "J",
-      "profilePic": "assets/img/speakers/mouse.jpg",
+      "profilePic": "/assets/img/speakers/mouse.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -866,7 +839,7 @@
     },
     {
       "name": "K",
-      "profilePic": "assets/img/speakers/puppy.jpg",
+      "profilePic": "/assets/img/speakers/puppy.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -878,7 +851,7 @@
     },
     {
       "name": "L",
-      "profilePic": "assets/img/speakers/mouse.jpg",
+      "profilePic": "/assets/img/speakers/mouse.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -890,7 +863,7 @@
     },
     {
       "name": "M",
-      "profilePic": "assets/img/speakers/puppy.jpg",
+      "profilePic": "/assets/img/speakers/puppy.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -902,7 +875,7 @@
     },
     {
       "name": "N",
-      "profilePic": "assets/img/speakers/rabbit.jpg",
+      "profilePic": "/assets/img/speakers/rabbit.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -914,7 +887,7 @@
     },
     {
       "name": "O",
-      "profilePic": "assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -926,7 +899,7 @@
     },
      {
       "name": "P",
-      "profilePic": "assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "??",
@@ -938,7 +911,7 @@
     },
     {
       "name": "Q",
-      "profilePic": "assets/img/speakers/kitten.jpg",
+      "profilePic": "/assets/img/speakers/kitten.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "37",
@@ -950,7 +923,7 @@
     },
     {
       "name": "R",
-      "profilePic": "assets/img/speakers/lion.jpg",
+      "profilePic": "/assets/img/speakers/lion.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "38",
@@ -962,7 +935,7 @@
     },
     {
       "name": "S",
-      "profilePic": "assets/img/speakers/mouse.jpg",
+      "profilePic": "/assets/img/speakers/mouse.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "42",
@@ -974,7 +947,7 @@
     },
     {
       "name": "T",
-      "profilePic": "assets/img/speakers/puppy.jpg",
+      "profilePic": "/assets/img/speakers/puppy.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "45",
@@ -986,7 +959,7 @@
     },
     {
       "name": "U",
-      "profilePic": "assets/img/speakers/rabbit.jpg",
+      "profilePic": "/assets/img/speakers/rabbit.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "46",
@@ -998,7 +971,7 @@
     },
     {
       "name": "V",
-      "profilePic": "assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "47",
@@ -1010,7 +983,7 @@
     },
     {
       "name": "W",
-      "profilePic": "assets/img/speakers/rabbit.jpg",
+      "profilePic": "/assets/img/speakers/rabbit.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "49",
@@ -1022,7 +995,7 @@
     },
     {
       "name": "X",
-      "profilePic": "assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "54",
@@ -1034,7 +1007,7 @@
     },
      {
       "name": "Y",
-      "profilePic": "assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "55",
@@ -1046,11 +1019,11 @@
     },
      {
       "name": "Z",
-      "profilePic": "assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "58",
-      "title": "Software Engineer",
+      "title": "L'iniziale di zorro",
       "location": "Everywhere",
       "email": "ted@example.com",
       "phone": "+1-541-754-3010",
