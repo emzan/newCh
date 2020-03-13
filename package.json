@@ -1,7 +1,7 @@
 {
-  "name": "ionic-conference-app",
+  "name": "ionic-cinese-app",
   "version": "0.0.0",
-  "description": "Ionic Conference App",
+  "description": "Ionic Cinese App",
   "author": "Ionic Team <hi@ionicframework.com>",
   "license": "Apache-2.0",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic-conference-app.git"
+    "url": "https://github.com/emzan/newCh.git"
   },
   "private": true,
   "dependencies": {
