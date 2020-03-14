@@ -16,15 +16,15 @@ ion-fab-button {
 
 $categories: (
   ionic: var(--ion-color-primary),
-  angular: #ac282b,
-  communication: #8e8d93,
-  tooling: #fe4c52,
-  services: #fd8b2d,
-  design: #fed035,
-  workshop: #69bb7b,
-  food: #3bc7c4,
-  documentation: #b16be3,
-  navigation: #6600cc
+  aggettivo: #ac282b,
+  avverbio: #8e8d93,
+  nome: #fe4c52,
+  preposizione: #fd8b2d,
+  congiunzione: #fed035,
+  pronome: #69bb7b,
+  interiezione: #3bc7c4,
+  articolo: #b16be3,
+  verbo: #6600cc
 );
 
 @each $track, $value in map-remove($categories) {
