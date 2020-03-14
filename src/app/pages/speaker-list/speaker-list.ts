@@ -9,6 +9,11 @@ import { ConferenceData } from '../../providers/conference-data';
 export class SpeakerListPage {
   speakers: any[] = [];
 
+  isDisplay = false;
+  function_to_invoke(){
+    this.isDisplay = !this.isDisplay;
+  }
+
   constructor(public confData: ConferenceData) {}
 
   ionViewDidEnter() {
