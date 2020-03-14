@@ -9,8 +9,8 @@ import { ConferenceData } from '../../providers/conference-data';
 export class SpeakerListPage {
   speakers: any[] = [];
 
-  isDisplay = false;
-  function_to_invoke(){
+  isDisplay = true;
+  nascostum(){
     this.isDisplay = !this.isDisplay;
   }
 
