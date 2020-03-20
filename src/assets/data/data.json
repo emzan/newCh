@@ -11,9 +11,9 @@
               "location": "我愛你",
               "description": "愛你",
               "speakerNames": ["A"],
-              "timeStart": "love you",
+              "timeStart": "Amarti",
               "timeEnd": "",
-              "tracks": ["Interiezione"],
+              "tracks": ["Verbo"],
               "id": "1"
             }
           ]
@@ -26,40 +26,51 @@
               "location": "如果這人是天主的受傅者、被選者",
               "description": "被選者",
               "speakerNames": ["B"],
-              "timeStart": "Selected",
+              "timeStart": "Selezionato",
               "timeEnd": "",
               "tracks": ["Verbo"],
-              "id": "2"
+              "id": "10"
             },
             {
               "name": "Bēnpǎo",
               "location": "於是他往前奔跑",
               "description": "奔跑",
               "speakerNames": ["B"],
-              "timeStart": "run",
+              "timeStart": "Correre",
+              "timeEnd": "10:00 am",
+              "tracks": ["Verbo"],
+              "id": "11"
+            },
+            
+            {
+              "name": "Bìngdú",
+              "location": "疫苗是用細菌、病毒",
+              "description": "病毒",
+              "speakerNames": ["B"],
+              "timeStart": "Virus",
               "timeEnd": "10:00 am",
               "tracks": ["Nome"],
-              "id": "3"
+              "id": "12"
             },
             {
               "name": "bìng méng zhào xuǎn",
               "location": "並蒙召選，聚合在他的右邊",
               "description": "並蒙召選",   
               "speakerNames": ["B"],
-              "timeStart": "And be called",
+              "timeStart": "E viene chiamato",
               "timeEnd": "9:30 am",
               "tracks": ["Verbo"],
-              "id": "4"
+              "id": "13"
             },
             {
               "name": "Bīngshì",
               "location": "兵士也戲弄耶穌",
               "description": "兵士",   
               "speakerNames": ["B"],
-              "timeStart": "Soldier",
+              "timeStart": "Soldato",
               "timeEnd": "9:30 am",
-              "tracks": ["Verbo"],
-              "id": "5"
+              "tracks": ["Nome"],
+              "id": "14"
             }
           ]
         },
@@ -71,10 +82,10 @@
               "location": "首領們嗤笑耶穌",
               "description": "嗤笑",
               "speakerNames": ["C"],
-              "timeStart": "laugh",
+              "timeStart": "Ridere",
               "timeEnd": "",
               "tracks": ["Verbo"],
-              "id": "6"
+              "id": "20"
             }
           ]
         },
@@ -86,30 +97,42 @@
               "location": "盜賊幾更天要來",
               "description": "代表",      
               "speakerNames": ["D"],
-              "timeStart": "representative",
+              "timeStart": "Rappresentante",
               "timeEnd": "11:45 am",
-              "tracks": ["Pronome"],
-              "id": "7"
+              "tracks": ["Nome"],
+              "id": "30"
             },
             {
               "name": "Dàozéi",
               "location": "盜賊幾更天要來",
               "description": "盜賊",  
               "speakerNames": ["D"],
-              "timeStart": "Thief",
+              "timeStart": "Ladro",
               "timeEnd": "11:50 am",
-              "tracks": ["Avverbio"],
-              "id": "8"
+              "tracks": ["Nome"],
+              "id": "31"
+            },
+            
+            {
+              "name": "Diédǎole",
+              "location": "因為你跌倒了",
+              "description": "跌倒了",     
+              "speakerNames": ["D"],
+              "timeStart": "Cadere",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Verbo"],
+              "id": "32"
+         
             },
             {
               "name": "Dì gěi",
               "location": "前來把醋遞給他",
-              "description": "遞給'",     
+              "description": "遞給",     
               "speakerNames": ["D"],
-              "timeStart": "Deliver",
+              "timeStart": "Consegnare",
               "timeEnd": "12:00 pm",
               "tracks": ["Verbo"],
-              "id": "9"
+              "id": "33"
          
             },
             {
@@ -117,10 +140,10 @@
               "location": "耶穌被釘在十字架上時",
               "description": "釘",     
               "speakerNames": ["D"],
-              "timeStart": "inchiodare",
+              "timeStart": "Inchiodare",
               "timeEnd": "12:00 pm",
               "tracks": ["Verbo"],
-              "id": "10"
+              "id": "34"
          
             },
             {
@@ -128,10 +151,10 @@
               "location": "在短暫的塵世旅途中",
               "description": "短暫",     
               "speakerNames": ["D"],
-              "timeStart": "short",
+              "timeStart": "Breve",
               "timeEnd": "12:00 pm",
-              "tracks": ["Verbo"],
-              "id": "11"
+              "tracks": ["Aggettivo"],
+              "id": "35"
          
             }
         
@@ -141,29 +164,40 @@
           "time": "E",
           "sessions": [
             {
-              "name": "Elefantessa",
-              "location": "Tuttifrutti",
-              "description": "Elefantessa",
+              "name": "É",
+              "location": "額外",
+              "description": "額",
               "speakerNames": ["E"],
-              "timeStart": "tuttifrutti",
+              "timeStart": "Quantità",
               "timeEnd": "1:00 pm",
-              "tracks": ["Interiezione"],
-              "id": "12"
+              "tracks": ["Nome"],
+              "id": "40"
             }
           ]
         },
         {
           "time": "F",
           "sessions": [
+            
+            {
+              "name": "Fánjì",
+              "location": "遠超過一切全燔祭和犧牲",
+              "description": "燔祭",           
+              "speakerNames": ["F"],
+              "timeStart": "oblazione",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Nome"],
+              "id": "50"
+            },
             {
               "name": "Fāngzhōu",
               "location": "直到諾厄進入方舟的那一天",
               "description": "方舟",           
               "speakerNames": ["F"],
-              "timeStart": "ark",
+              "timeStart": "Arca",
               "timeEnd": "1:15 pm",
-              "tracks": ["Avverbio"],
-              "id": "13"
+              "tracks": ["Nome"],
+              "id": "51"
             },
         
             {
@@ -171,10 +205,10 @@
               "location": "傅了喜樂之油",
               "description": "傅", 
               "speakerNames": ["F"],
-              "timeStart": "teach",
+              "timeStart": "Insegnare",
               "timeEnd": "1:30 pm",
-              "tracks": ["Avverbio"],
-              "id": "14"
+              "tracks": ["Verbo"],
+              "id": "52"
             }
         
           
@@ -188,10 +222,10 @@
               "location": "求你藉這共融聖事",
               "description": "共融", 
               "speakerNames": ["G"],
-              "timeStart": "Communion",
+              "timeStart": "Comunione",
               "timeEnd": "2:30 pm",
-              "tracks": ["Preposizione"],
-              "id": "15"
+              "tracks": ["Nome"],
+              "id": "60"
             },
            
             {
@@ -202,7 +236,18 @@
               "timeStart": "Fermarsi a osservare",
               "timeEnd": "2:45 pm",
               "tracks": ["Articolo"],
-              "id": "16"
+              "id": "61"
+            },
+            {
+              "name": "Guīxiàng",
+              "location": "歸向上主你的天主吧！",
+              "description": "歸向", 
+              "speakerNames": ["G"],
+              "timeStart": "Ritornare",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Verbo"],
+              "id": "62"
+            
             },
            
             {
@@ -210,12 +255,13 @@
               "location": "歸於自己權下",
               "description": "歸於", 
               "speakerNames": ["G"],
-              "timeStart": "Attribution",
+              "timeStart": "Attribuzione",
               "timeEnd": "3:00 pm",
-              "tracks": ["Congiunzione"],
-              "id": "17"
+              "tracks": ["Nome"],
+              "id": "63"
             
             }
+           
           ]
         },
         {
@@ -226,10 +272,10 @@
               "location": "因為就如在洪水以前的日子",
               "description": "洪水", 
               "speakerNames": ["H"],
-              "timeStart": "flood",
+              "timeStart": "Inondazione",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "18"
+              "tracks": ["Nome"],
+              "id": "70"
          
             },
             {
@@ -237,10 +283,10 @@
               "location": "在曠野裡有呼號者的聲音",
               "description": "呼號者",
               "speakerNames": ["H"],
-              "timeStart": "caller",
+              "timeStart": "Colui che chiama",
               "timeEnd": "3:45 pm",
               "tracks": ["Verbo"],
-              "id": "19"
+              "id": "71"
             
             }
           ]
@@ -250,41 +296,50 @@
           "sessions": [
           
             {
-              "name": "mercato",
-              "location": "Hotel",
-              "description": "Automobile", 
+              "name": "Yìmiáo",
+              "location": "疫苗是用細菌",
+              "description": "疫苗", 
               "speakerNames": ["I"],
-              "timeStart": "isolato",
+              "timeStart": "Vaccino",
               "timeEnd": "3:45 pm",
-              "tracks": ["Verbo"],
-              "id": "21"
+              "tracks": ["Nome"],
+              "id": "80"
             }
           ]
         },
         {
           "time": "J",
           "sessions": [
+            
+            {
+              "name": "Jītǐ",
+              "location": "製成的可使機體產生特異性免疫的生物製劑",
+              "description": "機體",
+              "speakerNames": ["J"],
+              "timeStart": "Corpo",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Nome"],
+              "id": "90"
+            },
             {
               "name": "Juǎn qù",
               "location": "把他們都捲去了",
               "description": "捲去",
               "speakerNames": ["J"],
-              "timeStart": "Roll away",
+              "timeStart": "Andar via",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "22"
-            
+              "tracks": ["Verbo"],
+              "id": "91"
             },
             {
               "name": "Juéchá",
               "location": "仍然沒有覺察",
               "description": "覺察", 
               "speakerNames": ["J"],
-              "timeStart": "Awareness",
+              "timeStart": "Consapevolezza",
               "timeEnd": "3:45 pm",
-              "tracks": ["Verbo"],
-              "id": "23"
-             
+              "tracks": ["Nome"],
+              "id": "92"
             }
           ]
         },
@@ -296,22 +351,20 @@
               "location": "喜悅地款待耶穌",
               "description": "款待",
               "speakerNames": ["K"],
-              "timeStart": "Hospitality",
+              "timeStart": "Ospitalità",
               "timeEnd": "3:30 pm",
               "tracks": ["Aggettivo"],
-              "id": "24"
-           
+              "id": "100"
             },
             {
               "name": "Kuàngyě",
               "location": "洗者若翰在猶太曠野出現",
               "description": "曠野",
               "speakerNames": ["K"],
-              "timeStart": "Wilderness",
+              "timeStart": "Luogo selvaggio",
               "timeEnd": "3:45 pm",
-              "tracks": ["Verbo"],
-              "id": "25"
-            
+              "tracks": ["Aggettivo"],
+              "id": "101"
             }
           ]
         },
@@ -323,13 +376,11 @@
               "location": "因為你們料想不到的時辰",
               "description": "料想", 
               "speakerNames": ["L"],
-              "timeStart": "expect",
+              "timeStart": "Aspettarsi",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "26"
-            
+              "tracks": ["Verbo"],
+              "id": "110"
             }
-           
           ]
         },
         {
@@ -340,22 +391,30 @@
               "location": "願我們的獻禮蒙你悅納",
               "description": "蒙你",
               "speakerNames": ["M"],
-              "timeStart": "You",
+              "timeStart": "Tu",
               "timeEnd": "3:30 pm",
               "tracks": ["Aggettivo"],
-              "id": "28"
-           
+              "id": "120"
+            },
+            {
+              "name": "Miǎn yì lì",
+              "location": "通過疫苗接種使接受方獲得免疫力",
+              "description": "免疫力",
+              "speakerNames": ["M"],
+              "timeStart": "Immunità",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Verbo"],
+              "id": "121"
             },
             {
               "name": "Mó",
               "location": "兩個女人同在磨旁推磨",
               "description": "磨",
               "speakerNames": ["M"],
-              "timeStart": "mill",
+              "timeStart": "Mulino",
               "timeEnd": "3:45 pm",
               "tracks": ["Verbo"],
-              "id": "29"
-          
+              "id": "122"
             }
           ]
         },
@@ -367,11 +426,10 @@
               "location": "就如在諾厄的日子怎樣",
               "description": "諾厄",
               "speakerNames": ["N"],
-              "timeStart": "Noe",
+              "timeStart": "Noè",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "30"
-            
+              "id": "130"
             } 
           ]
         },
@@ -379,14 +437,14 @@
           "time": "O",
           "sessions": [
             {
-              "name": "occapito",
-              "location": "Gioco",
-              "description": "come", 
+              "name": "Ǒu'ěr",
+              "location": "我們偶爾去那邊",
+              "description": "偶爾", 
               "speakerNames": ["O"],
-              "timeStart": "oranadiamo",
+              "timeStart": "Occasionalmente",
               "timeEnd": "3:30 pm",
-              "tracks": ["Verbo"],
-              "id": "32"
+              "tracks": ["Avverbio"],
+              "id": "140"
             }
           ]
         },
@@ -398,21 +456,20 @@
               "location": "攀上了一棵野桑樹",
               "description": "攀上",
               "speakerNames": ["P"],
-              "timeStart": "Climb up",
+              "timeStart": "Arrampicarsi",
               "timeEnd": "3:30 pm",
-              "tracks": ["Congiunzione"],
-              "id": "33"
-            
+              "tracks": ["Verbo"],
+              "id": "150"
             },
             {
               "name": "Péicháng",
               "location": "我就以四倍賠償",
               "description": "賠償",
               "speakerNames": ["P"],
-              "timeStart": "Compensation",
+              "timeStart": "Compensazione",
               "timeEnd": "3:30 pm",
-              "tracks": ["Avverbio"],
-              "id": "34"
+              "tracks": ["Nome"],
+              "id": "151"
             }
           ]
         },
@@ -424,30 +481,30 @@
               "location": "使我們切實履行正義",
               "description": "切實履行",
               "speakerNames": ["Q"],
-              "timeStart": "Earnestly fulfill",
+              "timeStart": "Subito riempito",
               "timeEnd": "3:30 pm",
               "tracks": ["Congiunzione"],
-              "id": "35"        
+              "id": "160"        
             },
             {
               "name": "qǐpàn",
               "location": "終能獲得我們日夜企盼",
               "description": "企盼",
               "speakerNames": ["Q"],
-              "timeStart": "hope",
+              "timeStart": "Speranza",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "36"
+              "tracks": ["Nome"],
+              "id": "161"
             },
             {
               "name": "Qīpiàn",
               "location": "我如果欺騙過誰",
               "description": "欺騙",
               "speakerNames": ["Q"],
-              "timeStart": "deceive",
+              "timeStart": "Ingannare",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "37"
+              "tracks": ["Verbo"],
+              "id": "162"
             }
           ]
         },
@@ -459,10 +516,10 @@
               "location": "我有兩條染色體",
               "description": "染色體",
               "speakerNames": ["R"],
-              "timeStart": "chromosome",
+              "timeStart": "Cromosoma",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "38"
+              "id": "170"
                }
           ]
         },
@@ -474,20 +531,20 @@
               "location": "因為你們料想不到的時辰",
               "description": "時辰",
               "speakerNames": ["S"],
-              "timeStart": "Time",
+              "timeStart": "Tempo",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "39"
+              "tracks": ["Nome"],
+              "id": "180"
             },
             {
               "name": "Shīshě",
               "location": "我把我財物的一半施捨給窮人",
               "description": "施捨",
               "speakerNames": ["S"],
-              "timeStart": "Alms",
+              "timeStart": "Elemosina",
               "timeEnd": "3:30 pm",
-              "tracks": ["Avverbio"],
-              "id": "40"
+              "tracks": ["Nome"],
+              "id": "181"
             
             },
             {
@@ -495,20 +552,20 @@
               "location": "如果這人是天主的受傅者",
               "description": "受傅者",
               "speakerNames": ["S"],
-              "timeStart": "Receiver",
+              "timeStart": "Ricevente",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "41"
+              "id": "182"
             },
             {
               "name": "Shǒulǐng",
               "location": "首領們嗤笑耶穌",
               "description": "首領",
               "speakerNames": ["S"],
-              "timeStart": "leader",
+              "timeStart": "Leader",
               "timeEnd": "3:30 pm",
-              "tracks": ["Preposizione"],
-              "id": "42"
+              "tracks": ["Nome"],
+              "id": "183"
             }
           ]
         },
@@ -520,60 +577,30 @@
               "location": "抬頭一看",
               "description": "抬頭",
               "speakerNames": ["T"],
-              "timeStart": "look up",
+              "timeStart": "Guardare in alto",
               "timeEnd": "3:30 pm",
-              "tracks": ["Interiezione"],
-              "id": "43"
+              "tracks": ["Verbo"],
+              "id": "190"
             },
             {
               "name": "Tiān jūn",
               "location": "宰制者和全體天軍",
               "description": "天軍",
               "speakerNames": ["T"],
-              "timeStart": "heavenly army",
+              "timeStart": "Esercito celeste",
               "timeEnd": "3:30 pm",
-              "tracks": ["Congiunzione"],
-              "id": "44"
+              "tracks": ["Nome"],
+              "id": "191"
             },
             {
               "name": "Tóusù",
               "location": "他竟到有罪的人那裏投宿",
               "description": "投宿",
               "speakerNames": ["T"],
-              "timeStart": "Staying",
+              "timeStart": "Rimanere",
               "timeEnd": "3:30 pm",
-              "tracks": ["Articolo"],
-              "id": "45"
-            }
-          ]
-        },
-        {
-          "time": "U",
-          "sessions": [
-            {
-              "name": "Wú diàn",
-              "location": "無玷祭品",
-              "description": "無玷",
-              "speakerNames": ["U"],
-              "timeStart": "innocent",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Interiezione"],
-              "id": "46"
-            }
-          ]
-        },
-        {
-          "time": "V",
-          "sessions": [
-            {
-              "name": "Angularum",
-              "location": "corridoio",
-              "description": "greto",  
-              "speakerNames": ["V"],
-              "timeStart": "cirisimao",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Congiunzione"],
-              "id": "47"
+              "tracks": ["Verbo"],
+              "id": "192"
             }
           ]
         },
@@ -585,20 +612,20 @@
               "location": "不讓自己的房屋被挖穿",
               "description": "挖穿",
               "speakerNames": ["W"],
-              "timeStart": "Digging through",
+              "timeStart": "Scavare dentro",
               "timeEnd": "3:30 pm",
-              "tracks": ["Interiezione"],
-              "id": "48"
+              "tracks": ["Verbo"],
+              "id": "220"
             },
             {
               "name": "Wú diàn",
               "location": "無玷祭品",
               "description": "無玷",
               "speakerNames": ["W"],
-              "timeStart": "innocent",
+              "timeStart": "Innocente",
               "timeEnd": "3:30 pm",
               "tracks": ["Aggettivo"],
-              "id": "49"
+              "id": "221"
             }
           ]
         },
@@ -606,54 +633,76 @@
           "time": "X",
           "sessions": [
             {
+              "name": "Xìbāo",
+              "location": "疫苗是用細菌、病毒、腫瘤細胞等",
+              "description": "細胞",
+              "speakerNames": ["X"],
+              "timeStart": "Cellula",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Nome"],
+              "id": "230"
+            },
+            {
+              "name": "Xìjùn",
+              "location": "疫苗是用細菌",
+              "description": "細菌",
+              "speakerNames": ["X"],
+              "timeStart": "Batterio",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Nome"],
+              "id": "231"
+            },
+            {
               "name": "Xìngfú",
               "location": "我們才能獲得永恆和圓滿的幸福",
               "description": "幸福",
               "speakerNames": ["X"],
-              "timeStart": "happy",
+              "timeStart": "Contento",
               "timeEnd": "3:30 pm",
               "tracks": ["Aggettivo"],
-              "id": "50"
+              "id": "232"
             },
             {
               "name": "Xǐng wù",
               "location": "你們要醒寤",
               "description": "醒寤",
               "speakerNames": ["X"],
-              "timeStart": "sober",
+              "timeStart": "Sobrio",
               "timeEnd": "3:30 pm",
-              "tracks": ["Verbo"],
-              "id": "51"
+              "tracks": ["Aggettivo"],
+              "id": "233"
             },
             {
               "name": "Xìnòng",
               "location": "兵士也戲弄耶穌",
               "description": "戲弄",
               "speakerNames": ["X"],
-              "timeStart": "Teasing",
+              "timeStart": "Prendere in giro",
               "timeEnd": "3:30 pm",
-              "tracks": ["Nome"],
-              "id": "52"
+              "tracks": ["Verbo"],
+              "id": "234"
             },
+           
+           
             {
               "name": "Xuánguàzhe",
               "location": "懸掛著的凶犯中",
               "description": "懸掛著",
               "speakerNames": ["X"],
-              "timeStart": "Hanging",
+              "timeStart": "Pendendo",
               "timeEnd": "3:30 pm",
-              "tracks": ["Preposizione"],
-              "id": "53"
+              "tracks": ["Verbo"],
+              "id": "235"
             },
             {
               "name": "Xúnzhǎo",
               "location": "是為尋找及拯救迷失了的人",
               "description": "尋找",
               "speakerNames": ["X"],
-              "timeStart": "search",
+              "timeStart": "Ricercare",
               "timeEnd": "3:30 pm",
               "tracks": ["Verbo"],
-              "id": "54"
+              "id": "236"
             }
           ]
         },
@@ -665,10 +714,10 @@
               "location": "攀上了一棵野桑樹",
               "description": "野桑",
               "speakerNames": ["Y"],
-              "timeStart": "Wild mulberry",
+              "timeStart": "Gelso selvatico",
               "timeEnd": "3:30 pm",
-              "tracks": ["Congiunzione"],
-              "id": "55"
+              "tracks": ["Nome"],
+              "id": "240"
             }
           ]
         },
@@ -680,43 +729,71 @@
               "location": "宰制者和全體天軍",
               "description": "宰制",
               "speakerNames": ["Z"],
-              "timeStart": "Slaughter",
+              "timeStart": "Dominazione",
               "timeEnd": "3:30 pm",
-              "tracks": ["Aggettivo"],
-              "id": "56"
+              "tracks": ["Nome"],
+              "id": "250"
             },
             {
               "name": "Zhàngfū",
               "location": "瑪利亞的丈夫",
               "description": "丈夫",
               "speakerNames": ["Z"],
-              "timeStart": "husband",
+              "timeStart": "Marito",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "57"
+              "id": "251"
             },
-            
             {
               "name": "Zhàocháng",
               "location": "人照常吃喝婚嫁",
               "description": "照常",
               "speakerNames": ["Z"],
-              "timeStart": "as usual",
+              "timeStart": "Come al solito",
               "timeEnd": "3:30 pm",
-              "tracks": ["Congiunzione"],
-              "id": "58"
+              "tracks": ["Interiezione"],
+              "id": "252"
             },
-          
+            {
+              "name": "Zhì chéng",
+              "location": "製成的可使機體產生特異性免疫的生物製劑",
+              "description": "製成",
+              "speakerNames": ["Z"],
+              "timeStart": "Produrre",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Verbo"],
+              "id": "253"
+            },
+            {
+              "name": "Zhǒngliú",
+              "location": "疫苗是用細菌、病毒、腫瘤",
+              "description": "腫瘤",
+              "speakerNames": ["Z"],
+              "timeStart": "Tumore",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Nome"],
+              "id": "254"
+            },
+            {
+              "name": "Zuìniè",
+              "location": "是因了你的罪孽",
+              "description": "罪孽",
+              "speakerNames": ["Z"],
+              "timeStart": "Peccato",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Nome"],
+              "id": "255"
+            
+            },
             {
               "name": "Zuìzhuàng pái",
               "location": "寫的罪狀牌",
               "description": "罪狀牌",
               "speakerNames": ["Z"],
-              "timeStart": "Guilty card",
+              "timeStart": "Carta di colpevolezza",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "59"
-            
+              "id": "256"
             }
         
           ]
