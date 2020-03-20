@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.cineseapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Ionic Cinese App</name>
-    <description>Schedule, speakers, venue.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="com.minglong.mandarinapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Vocabolario Mandarino</name>
+    <description>Parole, grammatica, significato</description>
+    <author email="cai_minglong@hotmail.com" href="http://www.tiffestival.com/">Our Team</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

@@ -1,8 +1,8 @@
 {
-  "name": "ionic-cinese-app",
-  "version": "0.0.0",
-  "description": "Ionic Cinese App",
-  "author": "Ionic Team <hi@ionicframework.com>",
+  "name": "ionic-mandarin-app",
+  "version": "0.0.1",
+  "description": "Parole grammatica significato",
+  "author": "Our Team <cai_minglong@hotmail.com>",
   "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
