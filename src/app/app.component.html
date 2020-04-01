@@ -5,7 +5,7 @@
       <ion-content>
         <ion-list lines="none">
           <ion-list-header>
-            Conference
+            Contenuti
           </ion-list-header>
           <ion-menu-toggle autoHide="false" *ngFor="let p of appPages; let i = index">
             <ion-item [routerLink]="p.url" routerLinkActive="selected" routerDirection="root" detail="false">
@@ -36,7 +36,7 @@
             <ion-item routerLink="/support" routerLinkActive="active" routerDirection="root" detail="false">
               <ion-icon slot="start" name="help"></ion-icon>
               <ion-label>
-                Support
+                Supporto
               </ion-label>
             </ion-item>
           </ion-menu-toggle>
@@ -45,7 +45,7 @@
             <ion-item button (click)="logout()" detail="false">
               <ion-icon slot="start" name="log-out"></ion-icon>
               <ion-label>
-                Logout
+                Esci
               </ion-label>
             </ion-item>
           </ion-menu-toggle>
@@ -70,7 +70,7 @@
             <ion-item routerLink="/support" routerLinkActive="active" routerDirection="root" detail="false">
               <ion-icon slot="start" name="help"></ion-icon>
               <ion-label>
-                Support
+                Supporto
               </ion-label>
             </ion-item>
           </ion-menu-toggle>
@@ -87,7 +87,7 @@
           <ion-item>
             <ion-icon slot="start" name="moon-outline"></ion-icon>
             <ion-label>
-              Dark Mode
+              Notturno
             </ion-label>
             <ion-toggle [(ngModel)]="dark"></ion-toggle>
           </ion-item>
@@ -95,12 +95,12 @@
 
         <ion-list lines="none">
           <ion-list-header>
-            Tutorial
+            Esempio
           </ion-list-header>
           <ion-menu-toggle autoHide="false">
             <ion-item button (click)="openTutorial()" detail="false">
               <ion-icon slot="start" name="hammer"></ion-icon>
-              <ion-label>Show Tutorial</ion-label>
+              <ion-label>Mostra l'esempio</ion-label>
             </ion-item>
           </ion-menu-toggle>
         </ion-list>

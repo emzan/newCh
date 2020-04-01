@@ -22,7 +22,7 @@
       </ion-item>
       <ion-text color="danger">
         <p [hidden]="username.valid || submitted == false" class="ion-padding-start">
-          Username is required
+          Username e' richiesto
         </p>
       </ion-text>
 
@@ -33,13 +33,13 @@
       </ion-item>
       <ion-text color="danger">
         <p [hidden]="password.valid || submitted == false" class="ion-padding-start">
-          Password is required
+          Password e' richiesta
         </p>
       </ion-text>
     </ion-list>
 
     <div class="ion-padding">
-      <ion-button (click)="onSignup(signupForm)" type="submit" expand="block">Create</ion-button>
+      <ion-button (click)="onSignup(signupForm)" type="submit" expand="block">Crea</ion-button>
     </div>
   </form>
 

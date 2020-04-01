@@ -1,23 +1,23 @@
 <ion-header translucent="true">
   <ion-toolbar>
     <ion-buttons slot="start">
-      <ion-button *ngIf="ios" (click)="dismiss()">Cancel</ion-button>
-      <ion-button *ngIf="!ios" (click)="selectAll(false)">Reset</ion-button>
+      <ion-button *ngIf="ios" (click)="dismiss()">Cancellare</ion-button>
+      <ion-button *ngIf="!ios" (click)="selectAll(false)">Resettare</ion-button>
     </ion-buttons>
 
     <ion-title>
-      Filter Sessions
+      Filtro Sessioni
     </ion-title>
 
     <ion-buttons slot="end">
-      <ion-button (click)="applyFilters()" strong>Done</ion-button>
+      <ion-button (click)="applyFilters()" strong>Fatto</ion-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
   <ion-list [lines]="ios ? 'inset' : 'full'">
-    <ion-list-header>Tracks</ion-list-header>
+    <ion-list-header>Elementi</ion-list-header>
 
     <ion-item *ngFor="let track of tracks" [attr.track]="track.name | lowercase">
       <ion-icon *ngIf="ios" slot="start" [name]="track.icon" color="medium"></ion-icon>
@@ -32,10 +32,10 @@
 <ion-footer translucent="true" *ngIf="ios">
   <ion-toolbar>
     <ion-buttons slot="start">
-      <ion-button (click)="selectAll(false)">Deselect All</ion-button>
+      <ion-button (click)="selectAll(false)">Deseleziona Tutti</ion-button>
     </ion-buttons>
     <ion-buttons slot="end">
-      <ion-button (click)="selectAll(true)">Select All</ion-button>
+      <ion-button (click)="selectAll(true)">Seleziona Tutti</ion-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-footer>
