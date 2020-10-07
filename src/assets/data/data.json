@@ -112,6 +112,16 @@
               "tracks": ["Nome"],
               "id": "31"
             },
+            {
+              "name": "Dǎrǎo",
+              "location": "不要打擾我",
+              "description": "打擾",  
+              "speakerNames": ["D"],
+              "timeStart": "Disturbare",
+              "timeEnd": "11:50 am",
+              "tracks": ["Verbo"],
+              "id": "32"
+            },
             
             {
               "name": "Diédǎole",
@@ -583,6 +593,16 @@
               "id": "190"
             },
             {
+              "name": "Tiánbùzhīchǐ",
+              "location": "恬不知恥",
+              "description": "恬不知恥",
+              "speakerNames": ["T"],
+              "timeStart": "Senza vergogna",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Interiezione"],
+              "id": "191"
+            },
+            {
               "name": "Tiān jūn",
               "location": "宰制者和全體天軍",
               "description": "天軍",
@@ -782,6 +802,15 @@
               "timeStart": "Tumore",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
+              "id": "255"
+            },
+            {
+              "name": "Zòngrán",
+              "location": "縱然縱然他的幫忙",
+              "speakerNames": ["Z"],
+              "timeStart": "Nonostante",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Avverbio"],
               "id": "255"
             },
             {
