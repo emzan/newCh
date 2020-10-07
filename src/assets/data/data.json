@@ -754,6 +754,16 @@
               "tracks": ["Interiezione"],
               "id": "252"
             },
+              {
+              "name": "Zhāodài",
+              "location": "可以招待他",
+              "description": "招待",
+              "speakerNames": ["Z"],
+              "timeStart": "Intrattenere",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Verbo"],
+              "id": "253"
+            },
             {
               "name": "Zhì chéng",
               "location": "製成的可使機體產生特異性免疫的生物製劑",
@@ -762,7 +772,7 @@
               "timeStart": "Produrre",
               "timeEnd": "3:30 pm",
               "tracks": ["Verbo"],
-              "id": "253"
+              "id": "254"
             },
             {
               "name": "Zhǒngliú",
@@ -772,7 +782,7 @@
               "timeStart": "Tumore",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "254"
+              "id": "255"
             },
             {
               "name": "Zuìniè",
@@ -782,7 +792,7 @@
               "timeStart": "Peccato",
               "timeEnd": "3:30 pm",
               "tracks": ["Nome"],
-              "id": "255"
+              "id": "256"
             
             },
             {
