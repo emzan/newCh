@@ -375,6 +375,16 @@
               "timeEnd": "3:45 pm",
               "tracks": ["Aggettivo"],
               "id": "101"
+            },
+            {
+              "name": "Kuīfù",
+              "location": "虧負我們的人",
+              "description": "虧負",
+              "speakerNames": ["K"],
+              "timeStart": "Fare un torto",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Aggettivo"],
+              "id": "101"
             }
           ]
         },
