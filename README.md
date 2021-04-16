@@ -20,3 +20,6 @@ We've built versions of this Conference app in React and Vue for developers that
 ### iOS
 
 1. Run `ionic cordova run ios --prod`
+
+
+## today I had my second dose of the Pfizer vaccine
