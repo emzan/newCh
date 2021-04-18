@@ -13,11 +13,14 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { FormsModule } from '@angular/forms';
 
+import { AngularFireDatabaseModule } from '@angular/fire/database';
+
 @NgModule({
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    AngularFireDatabaseModule,
     FormsModule,
     IonicModule.forRoot(),
     IonicStorageModule.forRoot(),
